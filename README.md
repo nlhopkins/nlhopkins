@@ -6,8 +6,9 @@ I am a master's graduate in biology with a strong interest in working with data.
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | 🧬 [MBiol Final Project](https://github.com/nlhopkins/mbiol-stage_3-research_project) | June 2023 | R, R Markdown, Excel | Conducted in-depth analysis of extensive breast cancer datasets as part of my master’s final project, achieving a grade of 87%|
-| 🧬 [Stage 3 Data Analysis Project](https://github.com/nlhopkins/stage_3-big_data_science) | Jan 2022 | R, R Markdown, Excel | Characterisation of a Putative Agent of Horizontal Gene Transfer Encoded by a Bacterial Prophage Region| 
+| 🧫 [Stage 3 Data Analysis Project](https://github.com/nlhopkins/stage_3-big_data_science) | Jan 2022 | R, R Markdown, Excel | Characterisation of a Putative Agent of Horizontal Gene Transfer Encoded by a Bacterial Prophage Region| 
 
 ## Skills
-Language: R, SQL
-Visualization: R, Excel
+**Languages:** R, R Markdown, Regex; currently advancing my skills in SQL and Python via DataCamp.
+
+**Visualization:** R, Google Sheets, and Excel.
