@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am a master's graduate in biology with a strong interest in working with data. Throughout my degree, I gained vast experience in statistical analysis, which inspired me to pivot my career toward data analytics. I possess a strong foundation in this area, having demonstrated proficiency in applying statistical tests and data visualisation in R. I am keen to utilise and further develop these skills to provide meaningful insights in a business environment.
+My background is in molecular biology, focusing on large-scale computational analysis and visualisation. I am eager to integrate my skills by applying a scientific, data-driven approach to enhance decision-making.
 
 ## Projects
 | Project Link | Completion Date | Tools | Project Description | 
