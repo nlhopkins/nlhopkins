@@ -1,6 +1,6 @@
 ## Hi 👋
 
-My background is in molecular biology, focusing on large-scale computational analysis and visualisation. I am eager to integrate my skills by applying a scientific, data-driven approach to enhance decision-making.
+My background is in molecular biology, focusing on large-scale computational analysis and visualisation. I am eager to integrate my skills by applying a scientific, data-driven approach to informed decision-making.
 
 ## Projects
 | Project Link | Completion Date | Tools | Project Description | 
