@@ -2,7 +2,7 @@
 
 I am Nat. My background is in molecular biology, focusing on large-scale computational analysis and visualisation. I am eager to integrate my skills by applying a scientific, data-driven approach to informed decision-making.
 
-## Projects
+## Project Highlights
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | 🧬 [FOXA1 Upregulation Correlates With Altered H3K27ac Enrichment in MCF7 Cells](https://github.com/nlhopkins/mbiol-stage_3-research_project) | June 2023 | R, R Markdown, Excel, EaSeq | Conducted in-depth analysis of extensive breast cancer datasets as part of my master’s final project, achieving a grade of 87%.|
